@@ -1,4 +1,4 @@
-# zogo-offer-personalization
+# Offer Personalization
 Project aimed at personalizing the recommendation of objectives and education modules given to users via user segmentation. The contents of each Jupyter notebook is outlined below.
 
 ## Document description:
